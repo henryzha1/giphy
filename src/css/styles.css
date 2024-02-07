@@ -1,3 +1,9 @@
 body {
     background-color: red;
-  }
+}
+
+.trending {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+}
